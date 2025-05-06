@@ -8,4 +8,4 @@ but can be downloaded using the "Batch_Precip_Flow.ipynb" and the "Precip_Flow_R
 
 The wetland data from ArcGIS Pro includes the .dbf files that start with "TabulateInter_"
 
-The wetland data that was made using ArcGIS is in a separate folder and are .shp files.
+The wetland data that was made using ArcGIS is shown (and can be read into ArcGIS as an example for the Emergent Wetlands in NYS
